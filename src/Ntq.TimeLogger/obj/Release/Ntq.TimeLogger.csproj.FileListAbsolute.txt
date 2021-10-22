@@ -1,0 +1,7 @@
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\bin\Release\readme.md
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\bin\Release\Ntq.TimeLogger.Nuspec
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\bin\Release\Ntq.TimeLogger.dll
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\bin\Release\Ntq.TimeLogger.pdb
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\obj\Release\Ntq.TimeLogger.csproj.CoreCompileInputs.cache
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\obj\Release\Ntq.TimeLogger.dll
+C:\Users\manhn\source\ntq.timelogger\src\Ntq.TimeLogger\obj\Release\Ntq.TimeLogger.pdb
