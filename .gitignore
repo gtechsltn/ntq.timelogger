@@ -5,3 +5,5 @@
 /src/.vs/Ntq.TimeLogger/v16
 /src/Ntq.TimeLogger/obj/Debug
 /src/Ntq.TimeLogger/bin/Debug
+/src/Ntq.TimeLogger/obj/Release
+/src/Ntq.TimeLogger/bin/Release
