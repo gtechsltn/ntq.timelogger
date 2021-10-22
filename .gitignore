@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/Ntq.TimeLogger/v16
+/src/Ntq.TimeLogger/obj/Debug
+/src/Ntq.TimeLogger/bin/Debug
