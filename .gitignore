@@ -3,7 +3,7 @@
 ################################################################################
 
 /src/.vs/Ntq.TimeLogger/v16
-/src/Ntq.TimeLogger/obj/Debug
-/src/Ntq.TimeLogger/bin/Debug
-/src/Ntq.TimeLogger/obj/Release
-/src/Ntq.TimeLogger/bin/Release
+/src/Ntq.TimeLogger/obj/
+/src/Ntq.TimeLogger/bin/
+/src/Ntq.TimeLogger.ConsoleApp/bin/
+/src/Ntq.TimeLogger.ConsoleApp/obj/

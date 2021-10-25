@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TimeLogger")]
+[assembly: AssemblyTitle("Ntq.TimeLogger.ConsoleApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TimeLogger")]
+[assembly: AssemblyProduct("Ntq.TimeLogger.ConsoleApp")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("21070c31-f2c2-408e-b11a-008048949d1e")]
+[assembly: Guid("bfbcf5c0-a9bd-4996-8d8f-bfa6ad866e6f")]
 
 // Version information for an assembly consists of the following four values:
 //

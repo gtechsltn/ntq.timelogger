@@ -6,16 +6,6 @@ using System.Text;
 
 namespace Ntq.TimeLogger
 {
-    public static class PerfConfig
-    {
-        /// <summary>
-        /// DELETE ME IN PRODUCTION
-        /// USE_V1 = true  : Before optimize code
-        /// USE_V1 = false : After optimize code
-        /// </summary>
-        public static bool USE_V1 = true;
-    }
-
     public class TimeLogger
     {
         private const string DELIMITER = "\t";
